@@ -120,7 +120,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center bg-sky-600 rounded-md"
-                  src={("/assets/picture/cal.png")}
+                  src="/assets/picture/cal.png"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
@@ -150,7 +150,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
-                  src={("/assets/picture/quiz.png")}
+                  src="/assets/picture/quiz.png"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
@@ -181,7 +181,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
-                  src={("/assets/picture/png-student managment.png")}
+                  src="/assets/picture/student.png"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
@@ -211,7 +211,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
-                  src={("/assets/picture/oop.png")}
+                  src="/assets/picture/oop.png"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
@@ -242,7 +242,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
-                  src={("/assets/picture/to do.jpg")}
+                  src="/assets/picture/todo.jpg"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
@@ -273,7 +273,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
-                  src={("/assets/picture/gassing.jpg")}
+                  src="/assets/picture/gassing.jpg"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
@@ -305,7 +305,7 @@ export default function Hero() {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center rounded-md"
-                  src={("/assets/picture/wc.png")}
+                  src="/assets/picture/wc.png"
                   width={400}  // Dynamic value with curly brackets
                   height={400}  // Dynamic value with curly brackets
                 />
